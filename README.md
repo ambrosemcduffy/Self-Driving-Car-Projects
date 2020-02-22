@@ -20,5 +20,5 @@ Results
 -------
 Project 1 Test Results.
 -----
-<img src="line_segmentsV2.png"">
+<img src="line_segmentsV2.png">
 
